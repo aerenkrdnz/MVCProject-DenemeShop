@@ -1,2 +1,6 @@
 # MVCProjesi-DenemeShop
-DenemeShop katmanlı bir mimari projedir.
+DenemeShop
+-Katmanlı Mimari
+-Oturum(Claims)
+-Admin Paneli ve Yetkilendirme
+-Javascript Kodları bulunan detaylı bir MVC projedir.
