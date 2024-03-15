@@ -1,3 +1,5 @@
+![enter image description here](https://miro.medium.com/max/750/1*zc1BKfAHkpvrZlHPbUvuYA.png)
+
 ## MVCProjesi-DenemeShop
 DenemeShop
 - Katmanlı Mimari
